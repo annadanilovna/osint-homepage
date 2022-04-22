@@ -3,24 +3,24 @@
 ## Information Gathering
 ### People
 #### Free
-- [MyLife](https://www.mylife.com)
-- [Nuwber](https://www.nuwber.com)
-- [ClustrMaps](https://www.clustrmaps.com)
+- [MyLife](https://www.mylife.com){:target="_blank"}
+- [Nuwber](https://www.nuwber.com){:target="_blank"}
+- [ClustrMaps](https://www.clustrmaps.com){:target="_blank"}
 
 #### Paid
-- [WhitePages](https://whitepages.com)
-- [BeenVerified](https://beenverified.com)
+- [WhitePages](https://whitepages.com){:target="_blank"}
+- [BeenVerified](https://beenverified.com){:target="_blank"}
 
 ### Real Estate
 
-- [Regrid](https://app.regrid.com/us/)
-- [Zillow](https://www.zillow.com)
+- [Regrid](https://app.regrid.com/us/){:target="_blank"}
+- [Zillow](https://www.zillow.com){:target="_blank"}
 
 ### Businesses
-- [OpenCorporates](https://www.opencorporates.com)
+- [OpenCorporates](https://www.opencorporates.com){:target="_blank"}
 
 #### Regional
-- [Sunbiz](https://dos.myflorida.com/sunbiz/search/) (Florida only)
+- [Sunbiz](https://dos.myflorida.com/sunbiz/search/){:target="_blank"} (Florida only)
 
 ---
 
